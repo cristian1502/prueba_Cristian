@@ -6,11 +6,13 @@
 El hotel del centro es el **más antiguo** del pueblo y también es aquel que tiene más comodidades. Este hotel fue construido en 1911, pero primero se utilizó como casa de familia. ***En 1975 un inversionista compró esta propiedad y la reformó*** para transformarla en el hotel que hoy conocemos. *Es un hotel pequeño*, pero cuenta con servicio a la habitación, con pileta climatizada, con un restaurante de categoría, entre otras cosas.
 ----
  ### Esto es un cacho de codigo
- '''
- mkdir dir 
- cd dir
- git init
-'''
+ ```
+{
+  "firstName": "Cristian",
+  "lastName": "Saiz",
+  "age": 21
+}
+```
 
 ### lista ordenada
 1. huevos
@@ -22,13 +24,15 @@ El hotel del centro es el **más antiguo** del pueblo y también es aquel que ti
 * leche
 * huevos
 
-(www.google.es)
->texto de cita
+[enlace externo](https://www.google.es)
 
->otra linea
+[enlace a otro archivo](D:\Usuarios\asir2\repositorios\prueba_cristian\taller4.md)
+## una imagen
+![Una imagen](capturas\captura.png)
 
- '''
- mkdir dir 
- cd dir
- git init
-'''
+## una tabla
+
+| nombre | Apellido |
+| ----------- | ----------- |
+| Cristian | Saiz |
+| Hugo | Calvo |
