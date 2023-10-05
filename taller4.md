@@ -1,7 +1,7 @@
 ## Como realizar un pull request
 1. Hacemos un fork  
 ![captura](capturas/Captura1.PNG)
-2. Hacemos un git clone del repositorio al que previamente hemos hecho un fork
+2. Hacemos un git clone del repositorio al que previamente hemos hecho un fork  
 ![captura](capturas/Captura2.PNG)
 3. Una vez lo tenemos hacemos una nueva rama 
 ![captura](capturas/Captura3.PNG)
