@@ -28,7 +28,7 @@ El hotel del centro es el **más antiguo** del pueblo y también es aquel que ti
 
 [enlace a otro archivo](D:\Usuarios\asir2\repositorios\prueba_cristian\taller4.md)
 ## una imagen
-![Una imagen](capturas\captura.png)
+![captura](capturas\captura.png)
 
 ## una tabla
 
